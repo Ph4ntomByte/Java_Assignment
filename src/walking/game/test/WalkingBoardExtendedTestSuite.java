@@ -1,9 +1,10 @@
-package walking.game;
+package walking.game.test;
 
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.Suite;
-
 import walking.game.WalkingBoardWithPlayersTest;
+
+//import walking.game.WalkingBoardWithPlayersTest;
 
 @SelectClasses({
       WalkingBoardExtendedTestSuite.StructuralTests.class

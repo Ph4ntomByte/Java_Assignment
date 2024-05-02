@@ -1,9 +1,7 @@
-package walking.game;
+package walking.game.test;
 
-import static check.CheckThat.*;
 import static check.CheckThat.Condition.*;
 import org.junit.jupiter.api.*;
-import org.junit.jupiter.api.condition.*;
 import check.CheckThat;
 
 public class DirectionStructureTest {

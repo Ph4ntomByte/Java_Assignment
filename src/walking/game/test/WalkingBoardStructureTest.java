@@ -1,4 +1,4 @@
-package walking.game;
+package walking.game.test;
 
 import static check.CheckThat.*;
 import static check.CheckThat.Condition.*;
@@ -107,8 +107,7 @@ public class WalkingBoardStructureTest {
     @Test
     @DisabledIf(notApplicable)
     public void methodMoveAndSet() {
-        it.hasMethod("moveAndSet", withParams("TODOname: walking.game.util.Direction", "TODOname: int"))
-          .thatIs(FULLY_IMPLEMENTED, INSTANCE_LEVEL, VISIBLE_TO_ALL)
+        it.hasMethod("moveAndSet", withParams("direction: walking.game.util.Direction", "value: int"))          .thatIs(FULLY_IMPLEMENTED, INSTANCE_LEVEL, VISIBLE_TO_ALL)
           .thatReturns("int");
     }
 }

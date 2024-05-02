@@ -1,4 +1,4 @@
-package walking.game;
+package walking.game.test;
 
 import static check.CheckThat.*;
 import static check.CheckThat.Condition.*;
