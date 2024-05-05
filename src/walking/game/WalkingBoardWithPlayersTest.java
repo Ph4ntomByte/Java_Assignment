@@ -9,8 +9,8 @@ public class WalkingBoardWithPlayersTest{
     public void walk1()
     {
         WalkingBoardWithPlayers w = new WalkingBoardWithPlayers(4, 2);
-        assertArrayEquals(new int[]{6, 15}, w.walk(2, 3, 3, 1, 2, 1)); //pontszam vizsgalat
-        assertArrayEquals(new int[][]{{3,2,3,4},{11,10,9,8},{3,3,3,3},{3,3,3,3}},w.getTiles()); //vegso allapot vizsgalat
+        assertArrayEquals(new int[]{6, 15}, w.walk(2, 3, 3, 1, 2, 1));
+        assertArrayEquals(new int[][]{{3,2,3,4},{11,10,9,8},{3,3,3,3},{3,3,3,3}},w.getTiles());
 
     }
 

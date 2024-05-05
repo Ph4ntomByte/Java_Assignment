@@ -5,32 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a0cb009-f840-49ca-bf83-e5f0d54a265d" name="Changes" comment="added files">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit5all.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/CheckThat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/check.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/checkagent.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/checkthat.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/walking/game/WalkingBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/walking/game/WalkingBoardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/walking/game/WalkingBoardWithPlayers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/walking/game/WalkingBoardWithPlayersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/walking/game/player/MadlyRotatingBuccaneer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/walking/game/player/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/walking/game/util/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit5all.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/junit5all.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/DirectionStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/DirectionStructureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/MadlyRotatingBuccaneerStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/MadlyRotatingBuccaneerStructureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/PlayerStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/PlayerStructureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/WalkingBoardBasicTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardBasicTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/WalkingBoardExtendedTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardExtendedTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/WalkingBoardFullTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardFullTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/WalkingBoardStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardStructureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/walking/game/WalkingBoardWithPlayersStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardWithPlayersStructureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/check.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/lib/check.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/checkagent.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/checkagent.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/WalkingBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/WalkingBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/DirectionStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/DirectionStructureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/MadlyRotatingBuccaneerStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/MadlyRotatingBuccaneerStructureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/PlayerStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/PlayerStructureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardBasicTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/WalkingBoardBasicTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardExtendedTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/WalkingBoardExtendedTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardFullTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/WalkingBoardFullTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/WalkingBoardStructureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/test/WalkingBoardWithPlayersStructureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/tests/WalkingBoardWithPlayersStructureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/walking/game/util/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/walking/game/util/Direction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,39 +51,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.WalkingBoard.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.DirectionStructureTest.executor": "Run",
-    "JUnit.DirectionStructureTest.testEnum.executor": "Run",
-    "JUnit.MadlyRotatingBuccaneerStructureTest.executor": "Run",
-    "JUnit.PlayerStructureTest.executor": "Run",
-    "JUnit.WalkingBoardExtendedTestSuite.executor": "Run",
-    "JUnit.WalkingBoardFullTestSuite.executor": "Run",
-    "JUnit.WalkingBoardTest.executor": "Run",
-    "JUnit.WalkingBoardWithPlayersTest.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/raufsuleymanov/Projects/IdeaProjects/Assignment",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.WalkingBoard.executor&quot;: &quot;Run&quot;,
+    &quot;Batch.check.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.DirectionStructureTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DirectionStructureTest.testEnum.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MadlyRotatingBuccaneerStructureTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MadlyRotatingBuccaneerStructureTest.fieldTurnCount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerStructureTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SampleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardBasicTestSuite$StructuralTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardBasicTestSuite.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardExtendedTestSuite.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardFullTestSuite.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardStructureTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardStructureTest.methodGetX.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardTest.testSimpleInit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WalkingBoardWithPlayersTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/raufsuleymanov/Projects/IdeaProjects/Assignment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="walking.game" />
@@ -106,64 +103,63 @@
       <recent name="$PROJECT_DIR$/junit5-checkthat-demo" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MadlyRotatingBuccaneerStructureTest">
-    <configuration name="DirectionStructureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="SampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="walking.game.test.*" />
+          <option name="PATTERN" value="walking.game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="walking.game.test" />
-      <option name="MAIN_CLASS_NAME" value="walking.game.test.DirectionStructureTest" />
+      <option name="PACKAGE_NAME" value="walking.game" />
+      <option name="MAIN_CLASS_NAME" value="walking.game.SampleTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DirectionStructureTest.testEnum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WalkingBoardBasicTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="walking.game.test.*" />
+          <option name="PATTERN" value="walking.game.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="walking.game.test" />
-      <option name="MAIN_CLASS_NAME" value="walking.game.test.DirectionStructureTest" />
-      <option name="METHOD_NAME" value="testEnum" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MadlyRotatingBuccaneerStructureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="walking.game.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="walking.game.test" />
-      <option name="MAIN_CLASS_NAME" value="walking.game.test.MadlyRotatingBuccaneerStructureTest" />
+      <option name="MAIN_CLASS_NAME" value="walking.game.tests.WalkingBoardBasicTestSuite" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MadlyRotatingBuccaneerStructureTest.fieldTurnCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WalkingBoardStructureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="walking.game.test.*" />
+          <option name="PATTERN" value="walking.game.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="walking.game.test" />
-      <option name="MAIN_CLASS_NAME" value="walking.game.test.MadlyRotatingBuccaneerStructureTest" />
-      <option name="METHOD_NAME" value="fieldTurnCount" />
+      <option name="MAIN_CLASS_NAME" value="walking.game.test.WalkingBoardStructureTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalkingBoardStructureTest.methodGetX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="walking.game.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="walking.game.tests" />
+      <option name="MAIN_CLASS_NAME" value="walking.game.tests.WalkingBoardStructureTest" />
+      <option name="METHOD_NAME" value="methodGetX" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MadlyRotatingBuccaneerStructureTest" />
-        <item itemvalue="JUnit.MadlyRotatingBuccaneerStructureTest.fieldTurnCount" />
-        <item itemvalue="JUnit.DirectionStructureTest.testEnum" />
-        <item itemvalue="JUnit.DirectionStructureTest" />
+        <item itemvalue="JUnit.SampleTest" />
         <item itemvalue="JUnit.WalkingBoardTest" />
+        <item itemvalue="JUnit.WalkingBoardStructureTest.methodGetX" />
+        <item itemvalue="JUnit.WalkingBoardStructureTest" />
+        <item itemvalue="JUnit.WalkingBoardBasicTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +205,10 @@
       <workItem from="1714332841865" duration="192000" />
       <workItem from="1714632436341" duration="461000" />
       <workItem from="1714674552401" duration="21000" />
-      <workItem from="1714674578446" duration="2258000" />
+      <workItem from="1714674578446" duration="3353000" />
+      <workItem from="1714902856217" duration="2583000" />
+      <workItem from="1714905459785" duration="2483000" />
+      <workItem from="1714939250942" duration="1855000" />
     </task>
     <task id="LOCAL-00001" summary="base structure">
       <option name="closed" value="true" />
@@ -227,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713952781881</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added files">
+      <option name="closed" value="true" />
+      <created>1714677316010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714677316010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

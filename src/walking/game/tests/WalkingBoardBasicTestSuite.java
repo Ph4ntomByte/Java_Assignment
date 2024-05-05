@@ -1,4 +1,4 @@
-package walking.game.test;
+package walking.game.tests;
 
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.Suite;
